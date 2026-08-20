@@ -1,0 +1,10 @@
+streamlit>=1.48
+pandas
+numpy
+gspread
+google-auth
+requests
+python-dotenv
+plotly
+pyyaml
+pytest
